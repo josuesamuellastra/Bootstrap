@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi pagina de bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <h1 class="alert alert-success">Mi pagina de bootstrap</h1>
+   
+<div class="container-fluid">
+   
+    <div class="row">
+        <h2 class=" alert alert-danger"> Mi web</h2>
+        <h1 class="alert alert-info">locomotora</h1> 
+        
+    </div>
+    
+    <div class="row">
+
+        <div class="col alert alert-info">1</div>
+        <div class="col alert alert-info">2</div>
+        <div class="col alert alert-info">3</div>
+        <div class="col alert alert-info">4</div>
+        <div class="col alert alert-info">5</div>
+        <div class="col alert alert-info">6</div>
+        <div class="col alert alert-info">7</div>
+        <div class="col alert alert-info">8</div>
+        <div class="col alert alert-info">9</div>
+        <div class="col alert alert-info">10</div>
+        <div class="col alert alert-info">11</div>
+        <div class="col alert alert-info">12</div>
+    </div>
+
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="alert alert-info"> <h1>hihigggu</h1></div>
+    </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-12"></div>
+        <div class="bg-dark text-white text-center"> colum de 12</div>
+    </div>
+</div> 
+        
+</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</body>
+</body>
+</html>
